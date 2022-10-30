@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = m4ym4y
+	email = m4ym4y@users.noreply.github.com
+# Please adapt and uncomment the following lines:
+#	name = maya
+#	email = m4ym4y@users.noreply.github.com
+[init]
+	defaultBranch = main
